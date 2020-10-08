@@ -33,4 +33,11 @@ Create a technical report in markdown format that contains the following:
 
 
 
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
+
 
