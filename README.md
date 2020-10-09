@@ -14,11 +14,19 @@ The purpose of this project is to create a Relational Database in which csv file
 
 ## Data Source
  Datasoures used are:
-  - departments.csv
-  - dept_emp.csv
-  - dept_manager.csv
-  - employees.csv
-  - salaries.csv
-  - titles.csv
-
-
+- current_emp.csv
+- departments.csv
+- dept_emp.csv
+- dept_info.csv
+- dept_manager.csv
+- dept_retirement_info.csv
+- emp_info.csv
+- emp_retiring_dept.csv
+- employees.csv
+- manager_info.csv
+- retirement_info.csv
+- salaries.csv
+- sales_info.csv
+- teams_info.csv
+- titles.csv
+- titles_retiring.csv
